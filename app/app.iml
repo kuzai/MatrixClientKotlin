@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":app" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="3.2.1" />
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/src/main/res" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="3" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false" isTestModule="false" externalProjectId=":app">
+        <sourceSets>
+          <sourceSet>MatrixTest.app.commonMain</sourceSet>
+        </sourceSets>
+        <newMppModelJpsModuleKind>COMPILATION_AND_SOURCE_SET_HOLDER</newMppModelJpsModuleKind>
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/build/tmp/kotlin-classes/debug" />
+          <option name="classpath" value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-android-extensions-runtime/1.3.61/289bdf25b4886749e040c7a7d3aab8a57f85c631/kotlin-android-extensions-runtime-1.3.61.jar:/Users/walker/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.61/4702105e97f7396ae41b113fdbdc180ec1eb1e36/kotlin-stdlib-1.3.61.jar:/Users/walker/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.61/65abb71d5afb850b68be03987b08e2c864ca3110/kotlin-stdlib-common-1.3.61.jar:/Users/walker/.gradle/caches/transforms-2/files-2.1/41027f00bcbd331020b45b1604bdfbea/jars/classes.jar:/Users/walker/.gradle/caches/transforms-2/files-2.1/6c4c40e46e1b0a59a4fb394e990311d4/jars/classes.jar:/Users/walker/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar:/Users/walker/.gradle/caches/transforms-2/files-2.1/030fb7123d82110a89d5c91619d064b5/jars/classes.jar:/Users/walker/.gradle/caches/transforms-2/files-2.1/4ade214208eee447f15ef0e0321bceac/jars/classes.jar:/Users/walker/.gradle/caches/transforms-2/files-2.1/5ec041959a01014a45145be87ebe969f/jars/classes.jar:/Users/walker/.gradle/caches/transforms-2/files-2.1/8e1002597da43fb943504db4051083f4/jars/classes.jar:/Users/walker/.gradle/caches/transforms-2/files-2.1/c5b1f4415fa49de30e759658fc02f3dd/jars/classes.jar:/Users/walker/.gradle/caches/transforms-2/files-2.1/d9d6ece508f4e49ab1982dab2295c07c/jars/classes.jar:/Users/walker/.gradle/caches/transforms-2/files-2.1/be980109d221621acad39f2175d1440e/jars/classes.jar:/Users/walker/.gradle/caches/transforms-2/files-2.1/831891de5d930005640b6b72960fe04a/jars/classes.jar:/Users/walker/.gradle/caches/transforms-2/files-2.1/f8950f2e7f02cccb5c3ce01c5df1b9d2/jars/classes.jar:/Users/walker/.gradle/caches/transforms-2/files-2.1/4975d38c474c1e6645f9fd0d65a7a325/jars/classes.jar:/Users/walker/.gradle/caches/transforms-2/files-2.1/33e1f13729924d3a24ccc78e121ba4cd/jars/classes.jar:/Users/walker/.gradle/caches/transforms-2/files-2.1/7be4582a98c9e9c2e32c710cd244f57d/jars/classes.jar:/Users/walker/.gradle/caches/transforms-2/files-2.1/cbd0103c7d9041416e94b526613110c3/jars/classes.jar:/Users/walker/.gradle/caches/transforms-2/files-2.1/6b2bff31182c0b343c074cc4e8df4d49/jars/classes.jar:/Users/walker/.gradle/caches/transforms-2/files-2.1/c76f9dac43bf7fdaa22df453b47a8d3a/jars/classes.jar:/Users/walker/.gradle/caches/modules-2/files-2.1/com.android.support/collections/28.0.0/c1bcdade4d3cc2836130424a3f3e4182c666a745/collections-28.0.0.jar:/Users/walker/.gradle/caches/transforms-2/files-2.1/eafb6eee7be1d61e0dccab615f088dc0/jars/classes.jar:/Users/walker/.gradle/caches/transforms-2/files-2.1/ad04e7fc2710854bb659062cbc2a22c1/jars/classes.jar:/Users/walker/.gradle/caches/transforms-2/files-2.1/40be5bf59791a3d56e4ddfcf32058e1c/jars/classes.jar:/Users/walker/.gradle/caches/transforms-2/files-2.1/0f11b600029125b0812fb5fcb2095aa5/jars/classes.jar:/Users/walker/.gradle/caches/transforms-2/files-2.1/ecbb9e9f5784d915c18348985432df74/jars/classes.jar:/Users/walker/.gradle/caches/transforms-2/files-2.1/fc7ce4cd1bb3bc3b233239bf5b8d575f/jars/classes.jar:/Users/walker/.gradle/caches/transforms-2/files-2.1/64ceeba3382a71a22519a96baed6eddb/jars/classes.jar:/Users/walker/.gradle/caches/transforms-2/files-2.1/a28b5e5586ca49721c8b995f171fd7db/jars/classes.jar:/Users/walker/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.1/207a6efae6a3555e326de41f76bdadd9a239cbce/common-1.1.1.jar:/Users/walker/.gradle/caches/transforms-2/files-2.1/40d7ab7bc0010611a6985fa191412400/jars/classes.jar:/Users/walker/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.1/e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95/common-1.1.1.jar:/Users/walker/.gradle/caches/transforms-2/files-2.1/e269c8c05b319e77d058d285d30437d5/jars/classes.jar:/Users/walker/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/28.0.0/ed73f5337a002d1fd24339d5fb08c2c9d9ca60d8/support-annotations-28.0.0.jar:/Users/walker/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.1.3/bde0667d7414c16ed62d3cfe993cff7f9d732373/constraint-layout-solver-1.1.3.jar:/Users/walker/Library/Android/sdk/platforms/android-28/android.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="app_debug" />
+          <option name="languageVersion" value="1.3" />
+          <option name="apiVersion" value="1.3" />
+          <option name="pluginOptions">
+            <array>
+              <option value="plugin:org.jetbrains.kotlin.android:configuration=rO0ABXeCAAAAAwAIZmVhdHVyZXMAAAABAA92aWV3cyxwYXJjZWxpemUAB3BhY2thZ2UAAAABAAZzYW1wbGUAB3ZhcmlhbnQAAAABADttYWluOy9Vc2Vycy93YWxrZXIvSWRlYVByb2plY3RzL01hdHJpeFRlc3QvYXBwL3NyYy9tYWluL3Jlcw==" />
+            </array>
+          </option>
+          <option name="pluginClasspaths">
+            <array>
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.intellij.deps/trove4j/1.0.20181211/216c2e14b070f334479d800987affe4054cd563f/trove4j-1.0.20181211.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-android-extensions/1.3.61/54ca7c214a5cd73cd887a42002266e25440097f2/kotlin-android-extensions-1.3.61.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-embeddable/1.3.61/c35c0833d5a1e3d229359758482c480306724618/kotlin-compiler-embeddable-1.3.61.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-daemon-embeddable/1.3.61/4de83e41a92c8395d89ab2e81d26b788ba163824/kotlin-daemon-embeddable-1.3.61.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.3.61/2e07c9a84c9e118efb70eede7e579fd663932122/kotlin-reflect-1.3.61.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.3.61/e5feb39c8de63dcbdc1154b34ca4413874231605/kotlin-script-runtime-1.3.61.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-common/1.3.61/169747d90a1ccdd30b25c381a06bee3fe579bf2/kotlin-scripting-common-1.3.61.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-compiler-embeddable/1.3.61/f5661dbd3863ff796cc7688fd8f4e28467f9cf1b/kotlin-scripting-compiler-embeddable-1.3.61.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-compiler-impl-embeddable/1.3.61/64cf01156eed591904cb5845570867811353354e/kotlin-scripting-compiler-impl-embeddable-1.3.61.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-jvm/1.3.61/b9311f022363534f8776e4392aa9c4f4d5a62a44/kotlin-scripting-jvm-1.3.61.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.61/65abb71d5afb850b68be03987b08e2c864ca3110/kotlin-stdlib-common-1.3.61.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.61/4702105e97f7396ae41b113fdbdc180ec1eb1e36/kotlin-stdlib-1.3.61.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.2.1/3839faf625f4197acaeceeb6da000f011a2acb49/kotlinx-coroutines-core-1.2.1.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" />
+            </array>
+          </option>
+          <option name="multiPlatform" value="true" />
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+</module>
